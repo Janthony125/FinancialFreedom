@@ -1,0 +1,2 @@
+# FinancialFreedom
+My program request the user’s first and last names along with his or her age. It also requests the amount they want to invest/save (e.g., the principle) and the expected annual rate of return (e.g., the rate). From that the program calculates and displays the user’s full name and how much money he/she will have in 10 years, how old the user will be when his/her investment doubles, and then show how much the investment will be worth when he/she is 65 years old, which is perhaps when he/she is ready for retirement. 
